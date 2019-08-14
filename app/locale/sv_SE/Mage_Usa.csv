@@ -83,7 +83,7 @@
 "Letter","Brev"
 "Oversize","Bred last"
 "Library","Bibliotek"
-"Shipment Duty Payment Type","Betalningssätt för tullavgift"
+"Shipment Duty Payment Type","Betalsätt för tullavgift"
 "Order","Beställning"
 "Package Description","Beskrivning av paket"
 "Calculate Handling Fee","Beräkna hanteringsavgift"
@@ -99,3 +99,4 @@
 "2Day","2 dagar"
 "Europe First Priority","1:a-klassbrev (Prioritaire)"
 "First-Class","1:a klass"
+"Residential Delivery","Hemleverans"

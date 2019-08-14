@@ -2718,7 +2718,7 @@ För variabler, använd: {{var var_name}}
                     {{var shippingMethod}}
                 &lt;/p&gt;
                 &lt;p&gt;
-                    &lt;b&gt;Betalningssätt:&lt;/b&gt;&lt;br /&gt;
+                    &lt;b&gt;Betalsätt:&lt;/b&gt;&lt;br /&gt;
                     {{var paymentMethod}}
                 &lt;/p&gt;
                 &lt;p&gt;

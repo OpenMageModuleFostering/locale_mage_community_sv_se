@@ -51,3 +51,4 @@
 "Inventory API","API Lageralternativ"
 "Retrieve stock data","Hämta lagersaldo"
 "Display Out of Stock Products", "Visa produkter som är slut i lager"
+"Display products availability in stock in the frontend","Visa produkters tillgänglighet i lager i frontend"

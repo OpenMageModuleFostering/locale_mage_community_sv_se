@@ -3,7 +3,7 @@
 "%s and greater","%s och större"
 "Search results for '%s'","Sökresultat för '%s'"
 "Apply Layered Navigation if Search Results are Less Than","Använd lagerbaserad navigation om sökresultatet är mindre än"
-"Minimal Query Length","Minimal sökordslängd"
+"Minimal Query Length","Minsta sökordslängd"
 "up to %s","upp till %s"
 "Enter ""0"" to enable layered navigation for any number of results.","Ange ""0"" för att aktivera lagerbaserad navigation för resultat oavsett nummer."
 "Quick Search Form","Snabbsökningsformulär"
