@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/Locale_Mage_community_sv_SE",
+    "type": "magento-module",
+    "license": "Open-Software-License-(OSL)",
+    "homepage": "",
+    "description": "Swedish Language Pack for Magento Community",
+    "authors": [
+    {
+        "name": "Vaimo",
+        "email": "staffan.palopaa@vaimo.com"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
