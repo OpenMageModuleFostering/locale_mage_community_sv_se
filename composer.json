@@ -1,7 +1,7 @@
 {
-    "name": "OpenMageModuleFostering\/Locale_Mage_community_sv_SE",
+    "name": "openmage-module-fostering\/locale_mage_community_sv_se",
     "type": "magento-module",
-    "license": "Open-Software-License-(OSL)",
+    "license": "OSL-3.0",
     "homepage": "",
     "description": "Swedish Language Pack for Magento Community",
     "authors": [
